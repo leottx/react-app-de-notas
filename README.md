@@ -7,7 +7,7 @@ npm install
 
 2. Inicialize o servidor:
 ```
-npm run build
+npm run start
 ```
 
 Abra a url http://localhost:8080/
