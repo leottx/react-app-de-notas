@@ -1,0 +1,16 @@
+form {
+  display: flex;
+  flex-grow: 2;
+  flex-direction: column;
+  margin-right: 2rem;
+}
+
+form > *:not(:last-child) {
+  margin-bottom: 1rem;
+}
+
+button {
+  align-self: flex-end;
+  cursor: pointer;
+  padding: .5rem .8rem;
+}

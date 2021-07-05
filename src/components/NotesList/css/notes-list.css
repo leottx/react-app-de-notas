@@ -1,0 +1,9 @@
+.notes-list {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 5;
+}
+
+.notes-list li {
+  margin-bottom: 2rem;
+}
